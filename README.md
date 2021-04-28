@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacotee" alt="pacotee" /> </p>
 
-- ⚡ I am a husband, a father and I intend to become a software engineer
+- ⚡ I am a Husband, Father and Paraense with great pride
 - 🔭 I am currently looking for work
 - 👀 I am interested in helping and being helped
 - 🌱 I am currently studying **JavaScript, Node, ReactJS, React Native, TypeScript, Postgree SQL**
