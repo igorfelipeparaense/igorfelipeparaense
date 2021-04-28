@@ -5,7 +5,7 @@
 - ⚡ I am a husband, a father and I intend to become a software engineer
 - 🔭 I am currently looking for work
 - 👀 I am interested in helping and being helped
-- 🌱 I am currently studying hard
+- 🌱 I am currently studying **JavaScript, Node, ReactJS, React Native, TypeScript, Postgree SQL**
 - 📫 How to reach me **igorfelipepacote@gmail.com**
 
 ### Dados do Github
