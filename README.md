@@ -1,18 +1,23 @@
+- 👋 Hi, I’m @pacotee
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 <h1 align="center">Hi 👋, I'm Igor Felipe</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacotee" alt="pacotee" /> </p>
 
-- ⚡ I am a Husband, Father and Paraense with great pride
+- ⚡ I am a husband, a father and I intend to become a software engineer
 - 🔭 I am currently looking for work
 - 👀 I am interested in helping and being helped
-- 🌱 I am currently studying **JavaScript, Node, ReactJS, React Native, TypeScript, Postgree SQL**
+- 🌱 I am currently studying hard
 - 📫 How to reach me **igorfelipepacote@gmail.com**
 
 ### Dados do Github
-<img alt="pacotee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacotee&layout=compact&theme=dark&title_color=268bd2" />
+<img alt="pacotee Github Stats" src="https://github-readme-stats.vercel.app/api?username=pacotee&show_icons=true&hide_border=true&theme=dark" />
 
 ### Linguagens mais usadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacotee&show_icons=true&locale=en&layout=compact" alt="martthus" />
+<img alt="pacotee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacotee&layout=compact&theme=dark&title_color=268bd2" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacotee&theme=dark" alt="martthus" /></p>
 
@@ -76,7 +81,3 @@
             src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
             alt="bootstrap" width="30" height="30" /> </a> &nbsp;
 </p></br>
-<!---
-pacotee/pacotee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
