@@ -9,7 +9,7 @@
 - 📫 How to reach me **igorfelipepacote@gmail.com**
 
 ### Dados do Github
-<img alt="pacotee Github Stats" src="https://github-readme-stats.vercel.app/api?username=pacotee&show_icons=true&hide_border=true&theme=dark" />
+<img alt="pacotee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacotee&layout=compact&theme=dark&title_color=268bd2" />
 
 ### Linguagens mais usadas
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacotee&show_icons=true&locale=en&layout=compact" alt="martthus" />
