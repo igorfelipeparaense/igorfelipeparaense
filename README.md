@@ -12,7 +12,7 @@
 <img alt="pacotee Github Stats" src="https://github-readme-stats.vercel.app/api?username=pacotee&show_icons=true&hide_border=true&theme=dark" />
 
 ### Linguagens mais usadas
-<img alt="pacotee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacotee&layout=compact&theme=dark&title_color=268bd2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacotee&show_icons=true&locale=en&layout=compact" alt="martthus" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacotee&theme=dark" alt="martthus" /></p>
 
