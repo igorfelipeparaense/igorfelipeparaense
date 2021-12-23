@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacotee" alt="pacotee" /> </p>
 
 - ⚡ I am a husband, a father and I intend to become a software engineer
-- 🔭 I am currently looking for work
+- 🔭 I am currently working at Corebiz
 - 👀 I am interested in helping and being helped
 - 🌱 I am currently studying hard
 - 📫 How to reach me **igorfelipepacote@gmail.com**
@@ -63,7 +63,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git" width="30" height="30" /> </a>&nbsp;
-    <a href="https://github.com/adrianoMendes-PA" target="_blank"> <img
+    <a href="https://github.com/pacotee" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
             alt="git-hub" width="30" height="30" /> </a>&nbsp;
     <a href="https://www.w3.org/html/" target="_blank"> <img
