@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Felipe</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pacotee" alt="pacotee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorfelipeparaense" alt="igorfelipeparaense" /> </p>
 
 - ⚡ I am a husband, a father and I intend to become a software engineer
 - 🔭 I am currently working at Corebiz
@@ -9,12 +9,12 @@
 - 📫 How to reach me **igorfelipesousaporto@gmail.com**
 
 ### Dados do Github
-<img alt="pacotee Github Stats" src="https://github-readme-stats.vercel.app/api?username=pacotee&show_icons=true&hide_border=true&theme=dark" />
+<img alt="igorfelipeparaense Github Stats" src="https://github-readme-stats.vercel.app/api?username=igorfelipeparaense&show_icons=true&hide_border=true&theme=dark" />
 
 ### Linguagens mais usadas
-<img alt="pacotee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacotee&layout=compact&theme=dark&title_color=268bd2" />
+<img alt="igorfelipeparaense" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfelipeparaense&layout=compact&theme=dark&title_color=268bd2" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacotee&theme=dark" alt="martthus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorfelipeparaense&theme=dark" alt="martthus" /></p>
 
 <h3 align="left">Linguagens, ferramentas e SO:</h3>
 <p align="left">
@@ -63,7 +63,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git" width="30" height="30" /> </a>&nbsp;
-    <a href="https://github.com/pacotee" target="_blank"> <img
+    <a href="https://github.com/igorfelipeparaense" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
             alt="git-hub" width="30" height="30" /> </a>&nbsp;
     <a href="https://www.w3.org/html/" target="_blank"> <img
