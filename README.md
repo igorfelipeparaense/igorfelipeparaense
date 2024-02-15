@@ -6,7 +6,7 @@
 - 🔭 I am currently working at Corebiz
 - 👀 I am interested in helping and being helped
 - 🌱 I am currently studying hard
-- 📫 How to reach me **igorfelipepacote@gmail.com**
+- 📫 How to reach me **igorfelipesousaporto@gmail.com**
 
 ### Dados do Github
 <img alt="pacotee Github Stats" src="https://github-readme-stats.vercel.app/api?username=pacotee&show_icons=true&hide_border=true&theme=dark" />
