@@ -4,8 +4,8 @@
 
 - ⚡ I am a husband, a father and I intend to become a software engineer
 - 🔭 I am currently working at Corebiz
-- 👀 I am interested in helping and being helped
-- 🌱 I am currently studying hard
+- 👀 I am interested in cars and tech
+- 🌱 I am currently studying computer science
 - 📫 How to reach me **igorfelipesousaporto@gmail.com**
 
 ### Dados do Github
